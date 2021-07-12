@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MojiWorkspace
+- 👀 I’m interested in server-side dev (backend dev)
+- 🌱 I’m currently learning Python, SQL, frameworks: Django, Flask
+- 📫 How to reach me: m.marfey@gmail.com
