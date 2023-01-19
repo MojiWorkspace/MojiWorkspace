@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MojiWorkspace
-- 👀 I’m interested in server-side dev (backend dev)
-- 🌱 I’m currently learning Python, SQL, JS, HTML, CSS, frameworks: Django, Flask
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning JS, HTML, CSS, Python, SQL. Frameworks: React
 - 📫 How to reach me: m.marfey@gmail.com
